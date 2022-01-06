@@ -1,0 +1,80 @@
+export default [
+  {
+    id: "10957",
+    english: "house",
+    transcription: "[haus]",
+    russian: "дом",
+  },
+  {
+    id: "10958",
+    english: "fear",
+    transcription: "[fɪə]",
+    russian: "страх",
+  },
+  {
+    id: "10961",
+    english: "ball",
+    transcription: "[bɔːl]",
+    russian: "мяч",
+  },
+  {
+    id: "10963",
+    english: "black",
+    transcription: "[ blæk ]",
+    russian: "черный",
+  },
+  {
+    id: "10967",
+    english: "ball",
+    transcription: "[bɔːl]",
+    russian: "мяч",
+  },
+  {
+    id: "10971",
+    english: "cat",
+    transcription: "[kat]",
+    russian: "кот",
+  },
+  {
+    id: "10977",
+    english: "мечта",
+    transcription: "[driːm]",
+    russian: "мечта",
+  },
+  {
+    id: "11031",
+    english: "new year",
+    transcription: "[njuː jɪə]",
+    russian: "новый год",
+  },
+  {
+    id: "11065",
+    english: "holiday",
+    transcription: "[ˈhɒlɪdɪ]",
+    russian: "праздник",
+  },
+  {
+    id: "11066",
+    english: "apple",
+    transcription: "[æpl]",
+    russian: "яблоко",
+  },
+  {
+    id: "11068",
+    english: "possibility",
+    transcription: "[pɒsəˈbɪlɪtɪ]",
+    russian: "возможность",
+  },
+  {
+    id: "11071",
+    english: "dictionary",
+    transcription: "[ˈdɪkʃənerɪ]",
+    russian: "словарь",
+  },
+  {
+    id: "11111",
+    english: "response",
+    transcription: "[rɪsˈpɒns]",
+    russian: "ответ",
+  },
+];
